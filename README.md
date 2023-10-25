@@ -1,3 +1,9 @@
+<h2> To run this project locally, follow these steps:</h2>
+1. git clone https://github.com/yourusername/password-generator.git
+2. cd password-generator
+3. npm install
+4. npm start
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
