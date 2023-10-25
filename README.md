@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-#Hooks in this project
+<h1>Hooks in this project</h1>
 This Password Generator project makes extensive use of React Hooks. Hooks were introduced in React 16.8 and have become a fundamental part of React development. They allow functional components to have state and side-effects, making it easier to manage and organize your code. Here are some of the key hooks used in this project:
 
 #useState
